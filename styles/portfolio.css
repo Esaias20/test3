@@ -21,6 +21,10 @@
           .header{
                 transform: scale(0.8);
           }
+          .right-header{
+        background-color: white;
+        padding: 10px;
+      }
       
     }
     .middle-section{
@@ -275,5 +279,6 @@
   }
 
   
+
 
 
