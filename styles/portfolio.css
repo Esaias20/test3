@@ -18,6 +18,9 @@
       .middle-section{
         flex-direction: column;
       }
+          .header{
+                transform: scale(0.5);
+          }
       
     }
     .middle-section{
@@ -272,3 +275,4 @@
   }
 
   
+
