@@ -14,7 +14,7 @@
       background-image:rgb(231, 198, 222) ;
     
     }
-    @media(max-width:750px){
+    @media only screen and (max-width:750px){
       .middle-section{
         flex-direction: column;
       }
@@ -270,4 +270,5 @@
     height: 400px;
     width: 50px;
   }
+
   
