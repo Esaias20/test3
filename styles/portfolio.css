@@ -19,7 +19,7 @@
         flex-direction: column;
       }
           .header{
-                transform: scale(0.8);
+            flex-direction: column;
           }
           .right-header{
         background-color: white;
@@ -279,6 +279,7 @@
   }
 
   
+
 
 
 
